@@ -1,7 +1,11 @@
 selector{
-    proparty:value;
+    property:Valu;
 }
+
 p{
-    color: yellow;
-    background-color: black;
+    color: red;
+    background-color: greenyellow;
+    font-family:fantasy;
+    font-size: 50px;
+    text-align: center;
 }

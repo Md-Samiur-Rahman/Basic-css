@@ -1,0 +1,14 @@
+#Shuvo1{
+    color: aqua;
+    background-color: black;
+}
+
+.Shuvo2{
+    color: firebrick;
+    background-color: yellow;
+}
+
+h1,h2,h3,h6,#Shuvo1{
+    background-color: red;
+    color: violet;
+}
