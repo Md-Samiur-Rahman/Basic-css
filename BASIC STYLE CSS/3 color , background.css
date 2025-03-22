@@ -1,0 +1,22 @@
+/*id selector*/
+#ss1{
+    color: hotpink;
+    background-color:rgba(247, 10, 10, 0.2);
+    text-align: center;
+    font-size: 35px;
+}
+/*class selector*/
+.ss2{
+    color: palegreen;
+    background-color:#000;
+    opacity:0.3;
+    text-align: center;
+    font-size: 25px;
+}
+/*group selector*/
+h1,h2,h3,h4,h5,h6{
+    color: aqua;
+    background-color:hsl(125, 93%, 28%, 0.7);
+    text-align: center;
+    font-style:italic;
+}
