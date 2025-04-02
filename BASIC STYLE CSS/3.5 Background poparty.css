@@ -1,0 +1,21 @@
+h1{
+    border: solid brown 10px;
+    border-radius: 50px;
+}
+
+#p1{
+    border-top: solid;
+    border-bottom: dotted;
+    border-right: inset;
+    border-left: dashed;
+
+    border-color: green;
+    background-color: aquamarine;
+    border-width: 5px;
+    border-top-left-radius: 35px;
+    border-bottom-right-radius: 35px;
+}
+
+#p2{
+    background: palevioletred;
+}

@@ -1,0 +1,22 @@
+body{
+margin: 20px;
+}
+
+h1{
+border: double brown;
+border-radius:30px;
+border-width: 10px;
+
+}
+#p1{
+border: solid 10px green;
+background-color: yellowgreen;
+margin: 10px 15ex 20px 30px;
+}
+
+#p2{
+    border: dotted blue 10px;
+    border-top-left-radius: 40px;
+    border-top-right-radius: 40px;
+    background-color:palegreen;
+}
