@@ -1,0 +1,19 @@
+#Outline{
+    border: 5px solid brown;
+    outline-style: dashed;
+    outline-color: green;
+    outline-width: 10px;
+
+}
+#format{
+    color:deeppink;
+    background-color: lightsalmon ;
+    text-align: justify;
+    direction: rtl;
+}
+h1{
+   text-decoration: underline; 
+   text-decoration-thickness: 10px ;
+   text-decoration-style: dotted;
+   text-decoration-color: red;
+}
